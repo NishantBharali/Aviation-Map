@@ -1,4 +1,4 @@
-﻿aviationMap
+Aviation Map
 ============
 
 Aviation maps for QGIS version 2.2+ created using freely available data from FAA.
